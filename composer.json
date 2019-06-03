@@ -1,0 +1,15 @@
+{
+    "name": "JiraTasks",
+    "description": "JIRA Tasks Analysis",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "JiraTasks\\": "src/"
+        }
+    }
+}
